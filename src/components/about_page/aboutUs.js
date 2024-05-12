@@ -27,7 +27,7 @@ export default function AboutUs() {
                  Our values of client oriented, trustworthy, training, high quality service and legal support guide our work
                   and are reflected in everything we do. Our team of highly skilled professionals has a combined experience of over 20 years
                    in the IT industry. 
-               They are committed to staying up-to-date with the latest technologies and trends to ensure our clients get the best possible service.
+               They are committed to staying up-to-date with the latest technologies and trends to ensure our clients get the best possible service.
 
               
               </p>

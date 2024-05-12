@@ -17,7 +17,7 @@ export default function ITService() {
             <p className=' text-xl mx-5'>IT services </p>
 
         <p className=" mb-3 mt-3 mx-5">
-          In today’s world, it is nearly impossible for any business to function without the implementation of Information Technology
+          In today&apos;s world, it is nearly impossible for any business to function without the implementation of Information Technology
           in the business, be it small, medium or multi-national companies. 
         </p>
         <p className=" mx-5">

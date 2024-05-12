@@ -22,7 +22,7 @@ export default function PMservice() {
 
                <p className="mb-3">
 
-               Based on the type of project, we choose the right project's framework to successfully meet the expectations within the given timeline.
+               Based on the type of project, we choose the right project&apos;s framework to successfully meet the expectations within the given timeline.
                </p>
         </div>
             

@@ -19,8 +19,8 @@ export default function Hero() {
             <p className=" py-10 px-10 md:pl-3 md:py-3 md:w-full">
              <b className="text-blue-800">Cuze Integrated Services Ltd</b> is a leading professional consulting company
              adept in providing Cyber Security,
-             Data Privacy, Regulatory compliance and IT services, with bespoke solutions tailored to our client’s unique needs.
-           We prioritise understanding clients’ businesses to provide practical and efficient solutions to a wide range of organisations, 
+             Data Privacy, Regulatory compliance and IT services, with bespoke solutions tailored to our client&apos;s unique needs.
+           We prioritise understanding clients&apos; businesses to provide practical and efficient solutions to a wide range of organisations, 
            from startups to Multi-National companies in various industries across the globe.
 
             </p>

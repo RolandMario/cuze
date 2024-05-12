@@ -17,18 +17,15 @@ export default function SecurityService() {
    />
    <div className=' p-3'>
        <h1 className=' text-left text-blue-950 mb-5 text-2xl'><strong> Cyber Security</strong></h1>
-       {/* <p className=' text-xl mb-3'>Let your customer trust and remain complaint</p> */}
+       
 
    <p className="mb-10">
-In today’s digital age, information security has become a paramount concern for organisations across industries.
+In today&apos;s digital age, information security has become a paramount concern for organisations across industries.
  With the increasing frequency and sophistication of cyber threats, businesses are seeking effective ways to protect 
  their sensitive data and ensure the integrity of their systems. One approach that many companies are adopting is 
  implementing information security frameworks such as PCI DSS, SOC2, HIPPA, ISO 27001, COBIT/ISACA standards and cybersecurity risks Management.</p>
 
-          {/* <p className=" mb-3">
-        We at Cuze Integrated Services have the professional expertise that can train your organisation to address the security needs.
-        Our team specializes on various areas such as ISO 27001 series, PCI DSS, cyber security risk analysis. 
-          </p> */}
+        
           <p className=" mb-3">
 
           Our team of experts can train your organisation in the following areas:

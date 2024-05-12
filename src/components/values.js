@@ -22,7 +22,7 @@ export default function Values() {
              <li className='mb-5'><b>Training:</b> We facilitate training to enhance the skills and boost the competencies of our clients in 
              navigating through the complexities of Information Technology, Project Management and privacy/cyber security frameworks.</li>
 
-             <li className='mb-5'><b>High Quality Service:</b> We are keen in delivering services that match and exceeds our clients' expectations.</li>
+             <li className='mb-5'><b>High Quality Service:</b> We are keen in delivering services that match and exceeds our clients&apos; expectations.</li>
 
              
           </ul>
