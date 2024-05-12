@@ -16,7 +16,7 @@ export default function PMservice() {
             <h1 className='mt-10 text-left text-blue-950 mb-5 text-2xl'><strong> Project Management </strong></h1>
           
         <p className="mb-3 mt-3">Our Project management experts emphasises on organisations achieving project goals and objectives within scope, time, and budgetary constraints. 
-          We can also help optimise the allocation of resources and integrate the inputs that will drive the completion of the project's 
+          We can also help optimise the allocation of resources and integrate the inputs that will drive the completion of the project&apos;s 
           objectives.</p>
 
 
