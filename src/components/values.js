@@ -15,7 +15,7 @@ export default function Values() {
   
           
           <ul className=' px-5 md:px-56'>
-            <li className='mb-5'><b>Clients oriented:</b> We strive to profer the right solution to meet our client's needs.</li>
+            <li className='mb-5'><b>Clients oriented:</b> We strive to profer the right solution to meet our client&apos;s needs.</li>
 
             <li className='mb-5'><b>Trustworthy:</b> We are reliable and dependable in our service delivery.</li>
 
