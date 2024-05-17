@@ -4,7 +4,7 @@ import itImage from "../../../public/IT2.jpeg"
 
 export default function SecurityService() {
   return (
-    <div className='
+    <div id="security" className='
     mt-10 xl:px-32 2xl:px-60
     '>
     <Image
@@ -20,7 +20,7 @@ export default function SecurityService() {
        
 
    <p className="mb-10">
-In today&apos;s digital age, information security has become a paramount concern for organisations across industries.
+In today&apos;s digital age, information security has become of paramount concern to organisations across industries.
  With the increasing frequency and sophistication of cyber threats, businesses are seeking effective ways to protect 
  their sensitive data and ensure the integrity of their systems. One approach that many companies are adopting is 
  implementing information security frameworks such as PCI DSS, SOC2, HIPPA, ISO 27001, COBIT/ISACA standards and cybersecurity risks Management.</p>

@@ -17,18 +17,19 @@ export default function Hero() {
         whileInView={{opacity:1, scale: 1}}
         >
             <p className=" py-10 px-10 md:pl-3 md:py-3 md:w-full">
-             <b className="text-blue-800">Cuze Integrated Services Ltd</b> is a leading professional consulting company
+             <b className="text-blue-800">Cuze Integrated Services Ltd</b> is a leading consulting company
              adept in providing Cyber Security,
-             Data Privacy, Regulatory compliance and IT services, with bespoke solutions tailored to our client&apos;s unique needs.
-           We prioritise understanding clients&apos; businesses to provide practical and efficient solutions to a wide range of organisations, 
+             Data Privacy, Regulatory compliance, and IT services. We provide bespoke solutions tailored to our client&apos;s unique needs.
+           We prioritise understanding the business needs of the client, in order to provide practical and efficient solutions to a wide
+            range of organisations, 
            from startups to Multi-National companies in various industries across the globe.
 
             </p>
             <p className=" px-10 md:pl-3 md:w-full">
             Our world class consultants are recognised globally as leaders in Data Privacy, Cyber Security, Information Technology
              and Project Management.
-             You can be confident that our award winning experts will offer the most pragmatic and best-practice solutions to meet your challenges
-              in the language easy to comprehend.
+             You can be confident that our award winning experts will offer the most pragmatic and best-practice solution to meet the challenges of the business.
+              
             </p>
             <div className=" w-32 h-10 bg-blue-900 rounded-sm shadow-md my-10 mx-36 text-white flex justify-center items-center">
                 

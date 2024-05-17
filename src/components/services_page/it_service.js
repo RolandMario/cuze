@@ -3,7 +3,7 @@ import Image from "next/image"
 import IT from "../../../public/IT.jpg"
 export default function ITService() {
   return (
-    <div className='mt-10 xl:px-32 2xl:px-60  '>
+    <div id="it" className='mt-10 xl:px-32 2xl:px-60  '>
          <Image
             alt="Cuze image"
             src={IT}
@@ -33,7 +33,7 @@ export default function ITService() {
                             <ol className="p-5">
                             <li>Systems Developement</li>
                               <li>Website Developement</li>
-                              <li>Domain Hosting</li>
+                              <li>Domain Registration and Hosting</li>
                               <li>Email Services</li> 
                             </ol> 
                               
@@ -46,9 +46,9 @@ export default function ITService() {
                       <h2 className=' text-white bg-blue-950 p-5'>Network Services</h2>
                      
                      <ol className="p-5">
-                     <li>Network infrastructure-LAN/WAN</li>
-                     <li>Hardware installations and maintenance</li>
-                     <li>Technical support and Troubleshooting</li>
+                     <li>Network infrastructure - LAN/WAN</li>
+                     <li>Hardware installation and maintenance</li>
+                     <li>Technical support and HelpDesk</li>
                      <li>Cloud Computing Services</li>
                      
                      

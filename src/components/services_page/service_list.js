@@ -5,7 +5,7 @@ import Link from "next/link"
 
 export default function ServiceList() {
   return (
-    <div className='
+    <div id="privacy" className='
     
     mx-auto 2xl:px-60 '>
     <Image
@@ -20,19 +20,20 @@ export default function ServiceList() {
        <h1 className=' text-left text-blue-950 mb-5 text-2xl mx-auto'><strong> Data Protection Solutions </strong></h1>
        <p className=' text-xl mb-5 mx-auto'>Data Protection as a Top Priority for Today</p>
 
-   <p className=" mx-auto">For over three decades, the use of personal data has significantly increased as the amount of data created and stored continues 
-    to grow at unprecedented rates. Hence, protecting Personal Identifiable Information (PII) from compromise and ensuring its confidentiality, integrity, 
-    availability and resilience is key to information security and data privacy.
+   <p className=" mx-auto">Over the last three decades, with the advent of the internet, the availability of personal data online has increased
+    significantly, and the amount of data created and stored continues 
+    to grow at unprecedented rates. Hence, protecting Personal Identifiable Information (PII) from compromise and ensuring its confidentiality,
+     integrity, availability and resilience is key to data privacy and security.
   </p>
 
           <p className=" mt-5 mx-auto">
-          Cuze Integrated Services provides the best data protection compliance solutions to help organisations in
-           ensuring their personal data is collected and processed for a specific, legitimate, and lawful purposes.
+          Cuze Integrated Services provides the best inclass data protection compliance solutions to organisations,
+           ensuring that personal data is collected and processed for the specific, legitimate, and lawful purposes for which it was collected.
 
           </p>
           <p className="mb-5 mt-3 mx-auto">
 
-          Our team of experts will work with you to identify and address any gaps in your current security practices, 
+          Our team of experts will work with you to identify and address any gaps in your current privacy practices, 
             so that you can be confident in your ability to protect your confidential and sensitive information and stay
              compliant with the Nigeria Data Protection Regulation (NDPR) and other global privacy frameworks, including the GDPR, 
              CCPA and UKDPA.
@@ -40,7 +41,7 @@ export default function ServiceList() {
 
           </p>
           <p className="mt-5 mx-auto">
-          Whether you require a solution to a specific challenge or need help with your end-to-end compliance journey,
+          Whether you require a solution to a specific challenge, or need help with your end-to-end compliance journey,
              our experts will deliver the right solution for your business.
           </p>
 

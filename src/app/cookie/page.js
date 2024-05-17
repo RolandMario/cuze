@@ -1,10 +1,11 @@
 import Footer from '@/components/footer'
-import Privacy_Policy from '@/components/privacy_cookie/privacy'
+import Cookie_policy from '@/components/privacy_cookie/cookie'
 
-export default function Privacy() {
+
+export default function Cookie(){
   return (
     <main className="flex min-h-screen flex-col items-center bg-gray-200">
-        <Privacy_Policy/>
+        <Cookie_policy/>
         <Footer/>
     </main>
   )

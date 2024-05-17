@@ -3,7 +3,7 @@ import Image from "next/image"
 import pm from "../../../public/pmp.jpg"
 export default function PMservice() {
   return (
-    <div className=' lg:px-20 xl:px-32 2xl:px-60'>
+    <div  id="pmt" className=' lg:px-20 xl:px-32 2xl:px-60'>
          <Image
             alt="Cuze image"
             src={pm}
@@ -22,7 +22,8 @@ export default function PMservice() {
 
                <p className="mb-3">
 
-               Based on the type of project, we choose the right project&apos;s framework to successfully meet the expectations within the given timeline.
+               Based on the type of project, we will choose the right project framework to successfully meet the business expectations
+                within the given time, cost and quality.
                </p>
         </div>
             

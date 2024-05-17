@@ -19,15 +19,14 @@ export default function AboutUs() {
               />
             
                <p className=' mt-10 '>
-               Cuze Integrated Services is a leading IT company that provides advanced solutions for businesses and individuals in UK, 
-               Europe and Nigeria.                            Our mission is to provide tailored solutions that address the specific needs and 
-               challenges that our clients comes to us and also to train and equip them with some of our valued traits and also give our support
-                when necessary. We offer a wide range of services including Data protection, Cybersecurity, Information Technology, 
-                Project Management. Our team of experts is committed to providing the highest quality services to our clients.
-                 Our values of client oriented, trustworthy, training, high quality service and legal support guide our work
-                  and are reflected in everything we do. Our team of highly skilled professionals has a combined experience of over 20 years
-                   in the IT industry. 
-               They are committed to staying up-to-date with the latest technologies and trends to ensure our clients get the best possible service.
+               Cuze Integrated Services is a leading ICT consultancy company that provides advanced solutions for businesses and individuals in the UK, 
+               Europe and Nigeria. Our mission is to provide tailored solutions that address the specific needs and 
+               challenges that our clients brings to us, we proffer solutions, train and equip them, and provide supports and consultancy.
+               We offer a wide range of services including Data protection, Cybersecurity, Information Technology, and 
+                Project Management. Our team of experts are committed to providing the highest quality of service to our clients.
+                 Our values are client oriented, trustworthy, providing high quality service and privacy support. These guide our work
+                  and are reflected in everything we do.
+               We are committed to staying up-to-date with the best technologies and trends to ensure the best solution for our clients.
 
               
               </p>
